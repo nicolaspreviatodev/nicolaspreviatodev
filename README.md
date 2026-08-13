@@ -12,7 +12,6 @@
 <div align="center">
 🛠️ Tecnologias
 <img src="https://skillicons.dev/icons?i=python,java,spring,postgres,tailwind,js,html,css,git,vscode" /> </div> <div align="center">
-📊 Estatísticas
 <img src="https://github-readme-stats.vercel.app/api?username=nicolaspreviato&show_icons=true&theme=radical&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolaspreviato&theme=radical&hide_border=true" width="48%" /> </div> <div align="center">
 📫 Contato
 silvapreviatonicolas@gmail.com
