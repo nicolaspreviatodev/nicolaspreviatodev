@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%24+whoami;Nicolas+Previato;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Aspirante+a+Security+Developer+%2F+DevSecOps" alt="Typing SVG" />
+<img src="(https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Ol%C3%A1!+Eu+sou+o+Nicolas+;)%3CSou+um+estudante+de+Desenvolvimento+de+Software+)](https://git.io/typing-svg)" />
 
 </div>
 
