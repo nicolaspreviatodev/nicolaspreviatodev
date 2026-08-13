@@ -4,9 +4,7 @@
 
 </div>
 
-$ cat sobre_mim.txt
-
-- 🎓 Estudante de ADS na FATEC (região de Sorocaba/SP)
+- 🎓 Estudante de Desenvolvimento de Software Multiplataforma na FATEC (região de Sorocaba/SP)
 - 🔐 Focado em construir carreira como Security Developer / DevSecOps
 - 💻 Desenvolvendo o projeto **Travel Match** (Spring Boot + PostgreSQL + Gemini API)
 - 🍳 Também trabalhando no **MasterCook** (Django)
@@ -17,8 +15,7 @@ $ cat sobre_mim.txt
 📊 Estatísticas
 <img src="https://github-readme-stats.vercel.app/api?username=nicolaspreviato&show_icons=true&theme=radical&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolaspreviato&theme=radical&hide_border=true" width="48%" /> </div> <div align="center">
 📫 Contato
-
-Mostrar Imagem
-Mostrar Imagem
+silvapreviatonicolas@gmail.com
+linkedin.com/in/nicolasprveiato
 
 </div> ```
