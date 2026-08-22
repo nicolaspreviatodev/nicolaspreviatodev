@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Ol%C3%A1!+Eu+sou+o+Nicolas+;%3CSou+um+estudante+de+Desenvolvimento+de+Software+)](https://git.io/typing-svg)
 
 - 🎓 Estudante de Desenvolvimento de Software Multiplataforma na FATEC (região de Sorocaba/SP)
-- 🔐 Focado em construir carreira como Security Developer / DevSecOps
+- 🔐 Focado em construir carreira como Software Engineer / Cybersecurity Engineer
 - 💻 Desenvolvendo o projeto **Travel Match** (Spring Boot + PostgreSQL + Gemini API)
 - 🍳 Também trabalhando no **MasterCook** (Django)
 - 🌱 Estudando Java, Spring Security, JWT e boas práticas de segurança
