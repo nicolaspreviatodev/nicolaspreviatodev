@@ -8,7 +8,7 @@
 - 🎓 Estudante de Desenvolvimento de Software Multiplataforma na FATEC (região de Sorocaba/SP)
 - 🔐 Construindo carreira como **Software Engineer & Cybersecurity Engineer**
 - 💻 Desenvolvendo o projeto **Travel Match** (Spring Boot + PostgreSQL + Gemini API)
-- 🍳 Também trabalhando no **MasterCook** (Django)
+- 🍳 Também trabalhando no **MasterCook** (Django + MySQL)
 - 🌱 Estudando Java, Spring Security, JWT e boas práticas de segurança
 
 <br>
