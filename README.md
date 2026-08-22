@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer" />
 </div>
 
-- 🎓 Estudante de Desenvolvimento de Software Multiplataforma na FATEC (região de Sorocaba/SP)
+- 🎓 Estudante de Desenvolvimento de Software Multiplataforma na FATEC 
 - 🔐 Construindo carreira como **Software Engineer & Cybersecurity Engineer**
 - 💻 Desenvolvendo o projeto **Travel Match** (Spring Boot + PostgreSQL + Gemini API)
 - 🍳 Também trabalhando no **MasterCook** (Django + MySQL)
@@ -17,7 +17,7 @@
 
 ### 🛠️ Tecnologias
 
-<img src="https://skillicons.dev/icons?i=python,java,spring,postgres,mysql,sql,aws,tailwind,js,html,css,git,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,spring,postgres,mysql,aws,tailwind,js,html,css,git,vscode" />
 
 <br><br>
 
