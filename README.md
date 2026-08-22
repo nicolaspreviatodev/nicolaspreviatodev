@@ -9,7 +9,7 @@
 - 🔐 Construindo carreira como **Software Engineer & Cybersecurity Engineer**
 - 💻 Desenvolvendo o projeto **Travel Match** (Spring Boot + PostgreSQL + Gemini API)
 - 🍳 Também trabalhando no **MasterCook** (Django + MySQL)
-- 🌱 Estudando Java, Spring Security, JWT e boas práticas de segurança
+- 🌱 Estudando Java, Spring, AWS, AI e Cybersecurity
 
 <br>
 
@@ -17,7 +17,7 @@
 
 ### 🛠️ Tecnologias
 
-<img src="https://skillicons.dev/icons?i=python,java,spring,postgres,tailwind,js,html,css,git,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,spring,postgres,mysql,mssql,aws,tailwind,js,html,css,git,vscode" />
 
 <br><br>
 
