@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer" />
 </div>
 
-- 🎓 Estudante de Desenvolvimento de Software Multiplataforma na FATEC 
+- 🎓 Estudante de Desenvolvimento de Software na FATEC 
 - 🔐 Construindo carreira como **Software Engineer & Cybersecurity Engineer**
 - 💻 Desenvolvendo o projeto **Travel Match** (Spring Boot + PostgreSQL + Gemini API)
 - 🍳 Também trabalhando no **MasterCook** (Django + MySQL)
