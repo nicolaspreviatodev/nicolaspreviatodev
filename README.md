@@ -2,7 +2,7 @@
 
 # Olá! Eu sou o Nicolas 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Eu+sou+o+Nicolas;Estudante+de+Desenvolvimento+de+Software;Focado+em+Security+%2F+DevSecOps)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Estudante+de+Desenvolvimento+de+Software;Focado+em+Security+%2F+DevSecOps;Sempre+aprendendo+algo+novo" />
 
 </div>
 
@@ -22,13 +22,16 @@
 
 <br><br>
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nicolaspreviato&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaspreviato&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nicolaspreviatodev&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaspreviatodev&layout=compact&theme=dark&hide_border=true" />
 
-<br>
+<br><br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicolaspreviato&theme=radical&hide_border=true)
+### 📫 Contato
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolaspreviato)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvapreviatonicolas@gmail.com)
+
+</div>
