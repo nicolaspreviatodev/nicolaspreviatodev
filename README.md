@@ -2,7 +2,7 @@
 
 # Olá! Eu sou o Nicolas 👋
 
-<img <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer" />
 </div>
 
 - 🎓 Estudante de Desenvolvimento de Software Multiplataforma na FATEC (região de Sorocaba/SP)
