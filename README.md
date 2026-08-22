@@ -17,7 +17,7 @@
 
 ### 🛠️ Tecnologias
 
-<img src="https://skillicons.dev/icons?i=python,java,spring,postgres,mysql,mssql,aws,tailwind,js,html,css,git,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,spring,postgres,mysql,mysql,aws,tailwind,js,html,css,git,vscode" />
 
 <br><br>
 
