@@ -9,6 +9,7 @@
 🛠️ Tecnologias
 <img src="https://skillicons.dev/icons?i=python,java,spring,postgres,tailwind,js,html,css,git,vscode" /> </div> <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nicolaspreviato&show_icons=true&theme=radical&hide_border=true" width="48%" /> 
+  
 📫 Contato
 silvapreviatonicolas@gmail.com
 linkedin.com/in/nicolasprveiato
